@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'cai' target in the 'cai' project
+// Prefix header for all source files of the 'cocos2djs_test' target in the 'cocos2djs_test' project
 //
 
 #ifdef __OBJC__
